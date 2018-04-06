@@ -1,0 +1,27 @@
+C:\Users\xps\Desktop\is_project\trying\form 2\bin\Debug\form 2.exe.config
+C:\Users\xps\Desktop\is_project\trying\form 2\bin\Debug\form 2.exe
+C:\Users\xps\Desktop\is_project\trying\form 2\bin\Debug\form 2.pdb
+C:\Users\xps\Desktop\is_project\trying\form 2\obj\Debug\form 2.csprojResolveAssemblyReference.cache
+C:\Users\xps\Desktop\is_project\trying\form 2\obj\Debug\form_2.Form4.resources
+C:\Users\xps\Desktop\is_project\trying\form 2\obj\Debug\form_2.Properties.Resources.resources
+C:\Users\xps\Desktop\is_project\trying\form 2\obj\Debug\form 2.csproj.GenerateResource.Cache
+C:\Users\xps\Desktop\is_project\trying\form 2\obj\Debug\form 2.exe
+C:\Users\xps\Desktop\is_project\trying\form 2\obj\Debug\form 2.pdb
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\bin\Debug\form 2.exe.config
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\bin\Debug\form 2.exe
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\bin\Debug\form 2.pdb
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\obj\Debug\form 2.csprojResolveAssemblyReference.cache
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\obj\Debug\form_2.Form4.resources
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\obj\Debug\form_2.Properties.Resources.resources
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\obj\Debug\form 2.csproj.GenerateResource.Cache
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\obj\Debug\form 2.exe
+C:\Users\Thoraiia\Desktop\is_project\trying\form 2\obj\Debug\form 2.pdb
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\bin\Debug\form 2.exe.config
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\bin\Debug\form 2.exe
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\bin\Debug\form 2.pdb
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\obj\Debug\form 2.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\obj\Debug\form_2.Form4.resources
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\obj\Debug\form_2.Properties.Resources.resources
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\obj\Debug\form 2.csproj.GenerateResource.Cache
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\obj\Debug\form 2.exe
+C:\Users\Ahmed_k\Desktop\tryingUP\form 2\obj\Debug\form 2.pdb

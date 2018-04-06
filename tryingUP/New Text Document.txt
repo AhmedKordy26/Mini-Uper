@@ -1,0 +1,8 @@
+create proc Login_ 
+@email nvarchar(50)
+as
+(
+	select Password from Passenger where fired = 0 AND Email like @email
+)
+
+execute Login_ @email='tk@tk.com'
